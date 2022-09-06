@@ -11,12 +11,12 @@ body{
   min-height: 100vh;
   align-items: center;
   justify-content: center;
-  background: #E3F2FD;
+  background: url(Make-Your-Zoner-Photo-Studio-Even-Better-with-Plugins.jpg);
 }
 .container{
   width: 850px;
   padding: 30px 35px 35px;
-  background: #fff;
+  background: lightgray;
   border-radius: 10px;
   box-shadow: 0 10px 20px rgba(0,0,0,0.1);
 }
